@@ -1,0 +1,41 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: left;
+}
+
+h2 {
+    color:white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+    background-color: rgb(0, 112, 163);
+    text-align: right;
+}
+
+.my-fontOne {
+    font-family: monospace;
+    font-size: 65pt;
+    font-weight: bold;
+}
+
+.my-fontTwo {
+    font-family: cursive;
+    font-size: 45pt;
+    font-style: italic;
+}
+
+.my-fontThree {
+    font-family: serif;
+    font-size: 30pt;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.text-cyan {
+    color: cyan;
+}
